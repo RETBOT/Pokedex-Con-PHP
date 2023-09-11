@@ -1,4 +1,4 @@
-# PokéPortal: Tu Entrada al Mundo Pokémon
+# Pokedex-PHP
 Este es un proyecto de página web que utiliza PHP, Bootstrap y MySQL para interactuar con una API Pokedex. Con esta aplicación, los usuarios pueden buscar y obtener información detallada sobre diferentes Pokémon.
 
 ## Enlace a la Página en Línea
