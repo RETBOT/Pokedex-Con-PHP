@@ -4,6 +4,7 @@ Este es un proyecto de página web que utiliza PHP, Bootstrap y MySQL para inter
 ## Enlace a la Página en Línea
 Puedes acceder a la página en línea haciendo clic en el siguiente enlace:
 [Página en linea](https://pokedex-retbot.000webhostapp.com/index.php)
+![Img_Página en linea](https://github.com/RETBOT/Pokedex-PHP/blob/main/assets/pokedex_php.png)
 
 ## Funcionalidades
 - Búsqueda de Pokémon por nombre o número de Pokédex.
