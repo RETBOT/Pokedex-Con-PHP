@@ -1,6 +1,10 @@
 # PokéPortal: Tu Entrada al Mundo Pokémon
 Este es un proyecto de página web que utiliza PHP, Bootstrap y MySQL para interactuar con una API Pokedex. Con esta aplicación, los usuarios pueden buscar y obtener información detallada sobre diferentes Pokémon.
 
+## Enlace a la Página en Línea
+Puedes acceder a la página en línea haciendo clic en el siguiente enlace:
+[Página en linea](https://pokedex-retbot.000webhostapp.com/index.php)
+
 ## Funcionalidades
 - Búsqueda de Pokémon por nombre o número de Pokédex.
 - Visualización de detalles de Pokémon, como tipo, altura, peso y más.
